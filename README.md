@@ -1,1 +1,1 @@
-https://aduar2.github.io/interest-webpage/art
+https://aduar2.github.io/hEygAMerS/index
