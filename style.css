@@ -2,6 +2,9 @@ h1, h2, p {
      margin-left: 20px;
      font-family: Garamond, serif;
 }
+h1 {
+ text-align: center;
+}
 
 Adelyn.html {
      background-color: #f5b59a;
