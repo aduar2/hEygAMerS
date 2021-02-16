@@ -3,7 +3,7 @@ body
 	 background-color: lightblue;
 }
 h1
-{	text-shadow: 4px 4px 8px gray;
+{
 	color: black;
 	text-align: center;
 	font-size: 35px;
@@ -28,6 +28,4 @@ img
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
-	border-radius: 50%;
 }
