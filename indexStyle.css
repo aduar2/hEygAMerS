@@ -15,17 +15,17 @@ body {
 	font-family: "Georgia", Times, serif;
 }
 
-cranium {
+img.cranium {
 	width: 150px;
 	height: 150px
 }
 
-amongUs {
+img.amongUs {
 	width: 192px;
 	height: 108px;
 }
 
-uncharted-4 {
+img.uncharted {
 	width: 128;
 	height: 72;
 }
