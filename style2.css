@@ -19,7 +19,7 @@ p
 
 button 
 {
-  background-color: #4CAF50; /* Green */
+  background-color: darkblue;
   border: none;
   color: white;
   text-align: center;
@@ -38,6 +38,6 @@ button
 img
 {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 50%;
+	margin-right: 50%;
 }
