@@ -31,9 +31,9 @@ button
        color: white;
        text-align: center;
        font-size: 15px;
-	 margin: auto;
-  width: 100%;
-  button-align: center;
+       margin: auto;
+       width: 50%;
+       button-align: center;
 }
 h3
 {
