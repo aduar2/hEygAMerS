@@ -1,6 +1,9 @@
 body
 {
-	 background-color: DodgerBlue;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    font-family: "Georiga", Times, serif;
+}
+	 
 }
 
 h1, h2, p {
