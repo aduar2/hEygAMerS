@@ -4,20 +4,17 @@ body
     font-family: "Georiga", Times, serif;
 }
 	 
-}
 
 h1, h2, p {
      margin-left: 20px;
      font-family: Garamond, serif;
 }
+
 h1 {
  text-align: center;
      margin-top: 10px;
 }
 
-Adelyn.html {
-     background-color: #f5b59a;
-}
-Lesly.html {
-     background-color: rgb(255, 187, 115);
+p.title {
+	margin-left: 50px;
 }
