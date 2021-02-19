@@ -1,6 +1,6 @@
-index.html
+body
 {
-    background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);
+    background-color: lightblue;
     font-family: "Georiga", Times, serif;
 }
 	 
