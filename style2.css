@@ -9,6 +9,13 @@ h1
 	font-size: 35px;
 	font-family: "Lucida Handwriting", cursive;
 }
+h2
+{
+        color: darkblue;
+	font-family: "Lucida Handwriting", cursive;
+	font-size: 15px;
+	text-align: center;
+}
 p 
 {
 	color: black;
