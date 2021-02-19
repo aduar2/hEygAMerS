@@ -17,6 +17,14 @@ p
 	text-align: center;
 }
 
+.button 
+{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+
 #list
 {
 	color: black;
