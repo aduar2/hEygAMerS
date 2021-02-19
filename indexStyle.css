@@ -1,6 +1,8 @@
 h1 {
- text-align: center;
-     margin-top: 10px;
+	text-align: center;
+}
+
+h2 {
 	margin-left: 20px;
 }
 
@@ -9,6 +11,6 @@ p {
 }
 
 body {
-    background-color: lightblue;
-    font-family: "Georgia", Times, serif;
+	background-color: lightblue;
+	font-family: "Georgia", Times, serif;
 }
