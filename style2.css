@@ -22,7 +22,9 @@ button
   background-color: darkblue;
   border: none;
   color: white;
-  text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+  //text-align: center;
   font-size: 15px;
 
 #list
@@ -38,6 +40,6 @@ button
 img
 {
 	display: block;
-	margin-left: 50%;
-	margin-right: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
