@@ -1,5 +1,5 @@
 h1, h2, p {
-     margin-left: 20px;
+     margin-left: 50px;
      font-family: Garamond, serif;
 }
 
@@ -9,11 +9,10 @@ h1 {
 }
 
 p.title {
-	margin-left: 50px;
+	margin-left: 20px;
 }
 
 body {
     background-color: lightblue;
     font-family: "Georgia", Times, serif;
-	margin-left: 20px;
 }
