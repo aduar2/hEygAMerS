@@ -31,7 +31,8 @@ button
        color: white;
        text-align: center;
        font-size: 15px;
-       margin: right;
+       margin-left: 45%;
+       margin-right: 45%;
        width: 20%;
        button-align: center;
 }
