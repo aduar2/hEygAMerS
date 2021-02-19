@@ -1,8 +1,4 @@
-body
-{
-    background-color: lightblue;
-    font-family: "Georiga", Times, serif;
-}
+
 	 
 
 h1, h2, p {
@@ -17,4 +13,10 @@ h1 {
 
 p.title {
 	margin-left: 50px;
+}
+
+body
+{
+    background-color: lightblue;
+    font-family: "Georiga", Times, serif;
 }
