@@ -20,21 +20,33 @@ body {
 img.cranium {
 	width: 300px;
 	height: 300px;
-	margin-left: 400px;
+	margin-left: 50px;
 }
 
 img.amongUs {
 	width: 256px;
 	height: 144px;
-	margin-left: 400px;
+	margin-left: 50px;
 }
 
 img.uncharted {
 	width: 384px;
 	height: 216px;
-	margin-left: 400px;
+	margin-left: 50px;
 }
 
 a {
 	margin-left: 40px;
+}
+
+p.cranium {
+	left-margin: 270px;
+}
+
+p.uncharted {
+	left-margin: 300px;
+}
+
+p.amongus {
+	left-margin: 290px;
 }
